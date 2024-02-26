@@ -2,14 +2,14 @@
 @import url('https://fonts.googleapis.com/css?family=Karla:400,700&display=swap');
 @import url('https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css');
 :root {
-    --bgColor:#4B0082;
-    --accentColor: #4B0082;
-    --bgColorg:#4B0082;
-    --accentColorg: #4B0082;
-    --bgColors:#4B0082;
-    --accentColors: #4B0082;
-    --bgColorb:#4B0082;
-    --accentColorb: #4B0082;
+    --bgColor:#C19A6B;
+    --accentColor: #C19A6B;
+    --bgColorg:#C19A6B;
+    --accentColorg: #C19A6B;
+    --bgColors:#C19A6B;
+    --accentColors: #C19A6B;
+    --bgColorb:#C19A6B;
+    --accentColorb: #C19A6B;
     --font: 'Karla', sans-serif;
     --firstName: 'John';
     --lastName: 'Doe';
